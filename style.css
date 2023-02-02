@@ -339,6 +339,14 @@ img {
   line-height: 1.7;
   text-align: start;
 }
+.point-text-bold{
+  font-size: 14px;
+  font-weight:500;
+  color: #333333;
+  line-height: 1.7;
+  text-align: start;
+
+}
 .dot-text {
   padding-top: .4em;
   background-position: top left -2px;
