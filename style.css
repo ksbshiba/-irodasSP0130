@@ -465,7 +465,7 @@ img {
 }
 
 .yellow-line{
-  background: linear-gradient(transparent 0%, #FDC32D 0%);
+  background: linear-gradient(transparent 60%, #FDC32D 0%);
   width: 350px;
 }
 
