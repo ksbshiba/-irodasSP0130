@@ -507,6 +507,7 @@ img {
   margin: 0px 1.5em 0px 40px;
   color: #fff;
   text-align: center;
+  padding: 0px 20px 0px 0px;
 }
  .step::after {
   position: absolute;
