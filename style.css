@@ -341,7 +341,7 @@ img {
 }
 .point-text-bold{
   font-size: 14px;
-  font-weight:bold;
+  font-weight:500;
   color: #333333;
   line-height: 1.7;
   text-align: start;
